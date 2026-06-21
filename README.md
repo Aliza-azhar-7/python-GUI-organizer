@@ -19,4 +19,4 @@ A Python-based file organizer with a graphical user interface (GUI) that automat
 4. Click the organize button.
 
 ## Author
-Aliza Azhar
+Aliza Azhar Khan
